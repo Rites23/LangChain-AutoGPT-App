@@ -1,7 +1,5 @@
 # LangChain-AutoGPT-App
 
-LangChain Crash Course
-
 The following will be needed to run the AutoGPT app:
 
 pip install: streamlit langchain openai wikipedia chromadb tiktoken
